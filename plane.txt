@@ -1,0 +1,21 @@
+Table	Purpose
+users	User account and authentication info
+user_profiles	Public profile details
+colleges	College master data
+college_affiliations	Connects users with colleges (prospective, student, alumni)
+departments	Departments within a college
+courses	Degree/program information
+posts	Community posts
+comments	Comments on posts
+likes	Likes/reactions
+reviews	College reviews
+questions	Admission/community Q&A
+answers	Answers to questions
+events	College and alumni events
+clubs	Student clubs
+notifications	User notifications
+media	Uploaded images/files
+reports	Report inappropriate content
+verification_requests	Student/alumni verification
+bookmarks	Saved colleges/posts
+follows	Follow users or colleges
